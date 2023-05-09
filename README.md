@@ -3,7 +3,7 @@ Link-in-bio for TodoVape
 
 https://www.instagram.com/todovaperioh/
 
-![thumbnail](./thumb.jpg)
+![thumbnail](./thumb.png)
 
 
 ## License
