@@ -106,4 +106,5 @@ a {
 
 h1 { 
   color: white;
+  text-shadow: 0 5px 25px rgb(0, 0, 0);
 }
